@@ -44,4 +44,23 @@ namespace DemoBiblioteca
             return 2 * (baseRect + altura);
         }
     }
+    public class Circulo : Figura
+    {
+        public readonly decimal radio;
+
+        public Circulo(decimal radio)
+        {
+            this.radio = radio;
+        }
+
+        public override decimal area()
+        {
+            return (decimal)Math.PI * radio * radio;
+        }
+
+        public override decimal perimetro()
+        {
+            return 2m * (decimal)Math.PI * radio;
+        }
+    }
 }

@@ -41,6 +41,28 @@ namespace DemoPruebaUnitaria
             Assert.AreEqual(16, resultado);
         }
     }
-}
 
-    
+    [TestClass]
+    public class TestUnitCirculo
+    {
+        [TestMethod]
+        public void Test_Area_Circulo()
+        {
+            decimal radio = 3m;
+            Circulo circulo = new Circulo(radio);
+            decimal areaEsperada = (decimal)Math.PI * 9m;
+            decimal resultado = circulo.area();
+            Assert.AreEqual(Math.Round(areaEsperada, 4), Math.Round(resultado, 4), "El área calculada no es correcta.");
+        }
+
+        [TestMethod]
+        public void Test_Perimetro_Circulo()
+        {
+            decimal radio = 5m;
+            Circulo circulo = new Circulo(radio);
+            decimal perimetroEsperado = 2m * (decimal)Math.PI * 5m;
+            decimal resultado = circulo.perimetro();
+            Assert.AreEqual(Math.Round(perimetroEsperado, 4), Math.Round(resultado, 4), "El perímetro calculado no es correcto.");
+        }
+    }
+}
