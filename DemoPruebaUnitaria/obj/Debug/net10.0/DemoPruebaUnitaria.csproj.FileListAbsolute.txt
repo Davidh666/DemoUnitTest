@@ -270,3 +270,4 @@ D:\sis457\DemoBiblioteca\DemoPruebaUnitaria\bin\Debug\net10.0\.msCoverageExtensi
 D:\sis457\DemoBiblioteca\DemoPruebaUnitaria\bin\Debug\net10.0\.msCoverageSourceRootsMapping_DemoPruebaUnitaria
 D:\sis457\DemoBiblioteca\DemoPruebaUnitaria\bin\Debug\net10.0\DemoBiblioteca.dll
 D:\sis457\DemoBiblioteca\DemoPruebaUnitaria\bin\Debug\net10.0\DemoBiblioteca.pdb
+D:\sis457\DemoBiblioteca\DemoPruebaUnitaria\obj\Debug\net10.0\DemoPruebaUnitaria.sourcelink.json

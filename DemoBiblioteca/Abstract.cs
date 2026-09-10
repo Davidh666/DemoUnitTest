@@ -24,19 +24,24 @@ namespace DemoBiblioteca
             return lado * 4;
         }
     }
-    public class Rentangulo : Figura
+    public class Rectangulo : Figura
     {
-        public readonly decimal lado;
+        public readonly decimal baseRect;
+        public readonly decimal altura;
 
-        public Rentangulo(decimal lado) => this.lado = lado;
+        public Rectangulo(decimal baseRect, decimal altura)
+        {
+            this.baseRect = baseRect;
+            this.altura = altura;
+        }
 
         public override decimal area()
         {
-            throw new NotImplementedException();
+            return baseRect * altura;
         }
         public override decimal perimetro()
         {
-            throw new NotImplementedException();
+            return 2 * (baseRect + altura);
         }
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\sis457\\DemoBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAD3A1E5-801C-4783-B4FA-32E73F254CCC}|DemoBiblioteca\\DemoBiblioteca.csproj|d:\\sis457\\demobiblioteca\\demobiblioteca\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD3A1E5-801C-4783-B4FA-32E73F254CCC}|DemoBiblioteca\\DemoBiblioteca.csproj|solutionrelative:demobiblioteca\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE55B0F2-B5E9-D0AA-253D-19492BE3436D}|DemoBiblioteca\\DemoBiblioteca.csproj|d:\\sis457\\demobiblioteca\\demobiblioteca\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B0F2-B5E9-D0AA-253D-19492BE3436D}|DemoBiblioteca\\DemoBiblioteca.csproj|solutionrelative:demobiblioteca\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C571CE5-14EA-404F-925A-4162A645979F}|DemoPruebaUnitaria\\DemoPruebaUnitaria.csproj|d:\\sis457\\demobiblioteca\\demopruebaunitaria\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C571CE5-14EA-404F-925A-4162A645979F}|DemoPruebaUnitaria\\DemoPruebaUnitaria.csproj|solutionrelative:demopruebaunitaria\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0014E602-F89E-1306-0668-DC8F34786D9B}|DemoPruebaUnitaria\\DemoPruebaUnitaria.csproj|d:\\sis457\\demobiblioteca\\demopruebaunitaria\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014E602-F89E-1306-0668-DC8F34786D9B}|DemoPruebaUnitaria\\DemoPruebaUnitaria.csproj|solutionrelative:demopruebaunitaria\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "DemoPruebaUnitaria\\Test1.cs",
               "ToolTip": "D:\\sis457\\DemoBiblioteca\\DemoPruebaUnitaria\\Test1.cs",
               "RelativeToolTip": "DemoPruebaUnitaria\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T21:26:14.624Z",
               "EditorCaption": ""
@@ -41,14 +41,10 @@
               "RelativeDocumentMoniker": "DemoBiblioteca\\Abstract.cs",
               "ToolTip": "D:\\sis457\\DemoBiblioteca\\DemoBiblioteca\\Abstract.cs",
               "RelativeToolTip": "DemoBiblioteca\\Abstract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T20:56:12.717Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             }
           ]
         }
