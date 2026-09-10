@@ -1,0 +1,12 @@
+D:\sis457\DemoBiblioteca\DemoBiblioteca\bin\Debug\net10.0\DemoBiblioteca.deps.json
+D:\sis457\DemoBiblioteca\DemoBiblioteca\bin\Debug\net10.0\DemoBiblioteca.dll
+D:\sis457\DemoBiblioteca\DemoBiblioteca\bin\Debug\net10.0\DemoBiblioteca.pdb
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.AssemblyInfoInputs.cache
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.AssemblyInfo.cs
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.csproj.CoreCompileInputs.cache
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.dll
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\refint\DemoBiblioteca.dll
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.pdb
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\ref\DemoBiblioteca.dll
+D:\sis457\DemoBiblioteca\DemoBiblioteca\obj\Debug\net10.0\DemoBiblioteca.sourcelink.json
